@@ -1,1 +1,1 @@
-console.log("hi' chani pro 1")
+console.log("hello from chani server")
